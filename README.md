@@ -1,17 +1,23 @@
 <h2 style="display: flex; align-items: center; gap: 10px; line-height: 1.5;">
-  Hi there, I'm 
-  <a href="https://blog.justme.ovh" target="_blank">Lucho | Just_Me</a>
+  Hi there, I'm
+  <a href="https://blog.justme.ovh" target="_blank">Lucho</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" style="vertical-align: middle;" />
 </h2>
 
 ###
 
 <div style="display: flex; align-items: left; gap: 5px;">
-  <a href="https://www.linkedin.com/in/luis-octavio-mota-verdasco-sys-admin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="20" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/luisoctaviomotaverdasco" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="20" alt="LinkedIn" />
   </a>
   <a href="https://x.com/zzjust_mezz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="20" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=flat" height="20" alt="X" />
+  </a>
+  <a href="https://www.credly.com/users/zzjustmezz/badges" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Credly&logo=credly&label=&color=FF6B00&logoColor=white&labelColor=&style=flat" height="20" alt="Credly logo" />
+  </a>
+  <a href="https://blog.justme.ovh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Blog&logo=rss&label=&color=0E7490&logoColor=white&labelColor=&style=flat" height="20" alt="Blog" />
   </a>
 </div>
 
@@ -19,12 +25,24 @@
 
 <img align="right" src="https://raw.githubusercontent.com/lucho00cuba/lucho00cuba/main/assets/typing.gif" width="300" height="180" alt="Typing GIF" style="margin-top: -10px;" />
 
-- 💻 Passionate about **Computer Science & DevOps/SRE**
-- 🚀 I automate infrastructure & build scalable platforms
-- 🔧 Solving challenges with cloud & scalable architectures
-- 🌱 Currently learning **Advanced Networking & Kubernetes**
-- 📖 Learning and sharing about DevOps, Cloud, and more
-- 💬 Ask me anything  <a href="mailto:lomv0209@gmail.com">here</a>
+**DevOps / SRE Engineer** — platform automation, cloud infrastructure & observability · Madrid, ES
+
+- 🔧 **DevOps Engineer** at [Vermont Solutions](https://www.linkedin.com/company/vermont-solutions) — Kubernetes, AWS, OpenStack, Docker, and production operations
+- ☁️ **AWS** · **Azure** · **Terraform** · **Ansible** — CI/CD with GitHub Actions, monitoring with **Prometheus** & **Grafana**
+- 🛠️ I build in **Go** and **Python** (Traefik plugins, Ingress tooling, automation) — see [Featured Projects](#featured-projects) below
+- 📝 Writing about DevOps & cloud at [blog.justme.ovh](https://blog.justme.ovh) · 🌱 Deepening **advanced networking** & Kubernetes
+- 💬 Ask me anything <a href="mailto:luisoctavio.mota.verdasco@gmail.com">here</a>
+
+###
+
+<h1 align="left" id="featured-projects">Featured Projects</h1>
+
+###
+
+- [**headers-enricher**](https://github.com/lucho00cuba/headers-enricher) — Traefik middleware plugin to generate and manage HTTP headers from request/response data and Go templates.
+- [**echo-back**](https://github.com/lucho00cuba/echo-back) — Minimal Go backend for custom Ingress NGINX error pages.
+- [**mtc**](https://github.com/lucho00cuba/mtc) — High-performance Merkle Tree tool for directory checksums and integrity diffs.
+- [**localstack-labs**](https://github.com/lucho00cuba/localstack-labs) — Sandbox to learn and experiment with AWS services using LocalStack.
 
 ###
 
@@ -32,17 +50,11 @@
 
 ###
 
-<div style="display: flex; align-items: center; gap: 1px;">
-  <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="bash logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="python logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="go logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="javascript logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=powershell" width="40" height="40" alt="powershell logo" />
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,powershell,py,go,js,ts,cs,java,&perline=10" alt="Languages" />
+  </a>
+</p>
 
 ###
 
@@ -50,67 +62,21 @@
 
 ###
 
-<div style="display: flex; align-items: center; gap: 8px;">
-  <img src="https://skillicons.dev/icons?i=linux" height="40" width="40" alt="linux logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" width="40" alt="debian logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" width="40" alt="redhat logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" width="40" alt="windows8 logo"  />
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,debian,redhat,windows&perline=10" alt="Operating Systems" />
+  </a>
+</p>
 
 ###
 
 <h1 align="left">Tools</h1>
 
-###
-
-<div style="display: flex; align-items: center; gap: 7px; margin-bottom: 20px;">
-  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="git logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="terraform logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="ansible logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="amazonwebservices logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=openstack" width="40" height="40" alt="openstack logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="nginx logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=prometheus" width="40" height="40" alt="prometheus logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=grafana" width="40" height="40" alt="grafana logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="docker logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="kubernetes logo" />
-</div>
-
-###
-
-<div style="display: flex; align-items: center; gap: 7px;">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="nodejs logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="mysql logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="redis logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="postgresql logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k3s/k3s-original.svg" width="40" height="40" alt="k3s logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40" alt="cloudflare logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="flask logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="fastapi logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=astro" width="40" height="40" alt="astro logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="postman logo" />
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bitbucket,github,githubactions,gitlab,aws,azure,openstack,terraform,ansible,docker,kubernetes,jenkins,nginx,cloudflare,vercel,prometheus,grafana,sentry,mysql,redis,postgres,rabbitmq,dotnet,nodejs,flask,fastapi,astro,&perline=10" alt="Tools" />
+  </a>
+</p>
 
 ###
 
@@ -119,6 +85,6 @@
 ###
 
 <div style="display: flex; align-items: center; gap: 4px; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucho00cuba&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucho00cuba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2&hide=css,scss,javascript,html,php" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.shion.dev/api?username=lucho00cuba&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=lucho00cuba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2&hide=css,scss,javascript,html,php" height="140" alt="languages graph"  />
 </div>
